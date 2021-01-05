@@ -110,5 +110,17 @@ section{
     margin-left: 5%;
     padding-left: 2%;
     padding-top: 2%;
+
+}
+
+#support{
+    width: 20%;
+}
+
+.border-set{
+    border-left: 1px solid;
+    border-image:linear-gradient(180deg,lightSalmon,tomato);
+    border-image-slice: 1;
+    height: 80%;
 }
 
